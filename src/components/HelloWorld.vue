@@ -22,7 +22,7 @@ export default {
   name: "App",
   data() {
     return {
-      msg: "Deploy App With CI/CD",
+      msg: "Deploy App With CI/CD github actions",
       task: "",
       todos: []
     };
